@@ -5,3 +5,7 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* Aquaman
+* Linterna Verde
+* Arrow
+* shazam
