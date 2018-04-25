@@ -10,3 +10,5 @@
 * Arrow
 * shazam
 * capitan america
+* dr strange
+* hulk
